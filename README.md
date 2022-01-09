@@ -50,9 +50,9 @@ We found that although 100+ multimodal language resources are available in liter
 | How2| How2: A Large-scale Dataset for Multimodal Language Understanding |https://arxiv.org/pdf/1811.00347.pdf | https://github.com/srvk/how2-dataset | 
 | MLT | Multimodal Lexical Translation |https://aclanthology.org/L18-1602.pdf | https://github.com/sheffieldnlp/mlt | 
 | IKEA | A Visual Attention Grounding Neural Model for Multimodal Machine Translation |https://arxiv.org/pdf/1808.08266.pdf | https://github.com/sampalomad/IKEA-Dataset | 
-| Flickr30K (EN- (hi-IN)) ||Paper | Dataset | 
-| Hindi Visual Genome ||Paper | Dataset | 
-| HowTo100M ||Paper | Dataset | 
+| Flickr30K (EN- (hi-IN)) | Multimodal Neural Machine Translation for Low-resource Language Pairs using Synthetic Data |https://aclanthology.org/W18-3405.pdf | On Request | 
+| Hindi Visual Genome | Hindi Visual Genome: A Dataset for Multimodal English-to-Hindi Machine Translation |https://arxiv.org/pdf/1907.08948.pdf | https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997 | 
+| HowTo100M | Multilingual Multimodal Pre-training for Zero-Shot Cross-Lingual Transfer of Vision-Language Models |2103.08849.pdf (arxiv.org) | berniebear/Multi-HT100M (github.com) | 
 
 
 3. **Information Retrieval**

@@ -14,12 +14,12 @@ We found that although 100+ multimodal language resources are available in liter
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
 | EmoDB| A Database of German Emotional Speech| https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.8506&rep=rep1&type=pdf | https://www.kaggle.com/piyushagni5/berlin-database-of-emotional-speech-emodb | 
-| VAM ||Paper | Dataset | 
-| IEMOCAP||Paper | Dataset | 
-| Mimicry||Paper | Dataset | 
-| YouTube||Paper | Dataset | 
-| HUMAINE||Paper | Dataset | 
-| Large Movies||Paper | Dataset | 
+| VAM | The Vera am Mittag German Audio-Visual Emotional Speech Database |https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4607572  | https://sail.usc.edu/VAM/vam_release.htm | 
+| IEMOCAP| IEMOCAP: interactive emotional dyadic motion capture database |https://link.springer.com/content/pdf/10.1007/s10579-008-9076-6.pdf | https://sail.usc.edu/software/databases/ | 
+| Mimicry|A Multimodal Database for Mimicry Analysis|https://ibug.doc.ic.ac.uk/media/uploads/documents/sun2011multimodal.pdf | http://www.mahnob-db.eu/mimicry | 
+| YouTube| Towards Multimodal Sentiment Analysis:Harvesting Opinions from the Web|https://ict.usc.edu/pubs/Towards%20Multimodal%20Sentiment%20Analysis-%20Harvesting%20Opinions%20from%20The%20Web.pdf | https://github.com/A2Zadeh/CMU-MultimodalSDK | 
+| HUMAINE| The HUMAINE database |https://ibug.doc.ic.ac.uk/media/uploads/documents/sun2011multimodal.pdf | www.emotion-research.net | 
+| Large Movies| Sentiment classification on Large Movie Review |https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf | https://ai.stanford.edu/~amaas/data/sentiment/ | 
 | SEMAINE||Paper | Dataset | 
 | AFEW||Paper | Dataset | 
 | SST||Paper | Dataset | 

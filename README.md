@@ -58,7 +58,8 @@ We found that although 100+ multimodal language resources are available in liter
 3. **Information Retrieval**
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
-| ----------------- | ---------------------- |---------------------- |------------------------ | MUSICLEF ||||
+| ----------------- | ---------------------- |---------------------- |------------------------ | 
+| MUSICLEF ||||
 | Moodo ||||
 | ALF-200k ||||
 | MQA ||||
@@ -72,7 +73,8 @@ We found that although 100+ multimodal language resources are available in liter
 4. **Question Answering**
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
-| ----------------- | ---------------------- |---------------------- |------------------------ | MQA ||||
+| ----------------- | ---------------------- |---------------------- |------------------------ | 
+| MQA ||||
 | MovieQA ||||
 | PororoQA ||||
 | MemexQA ||||

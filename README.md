@@ -140,4 +140,22 @@ We found that although 100+ multimodal language resources are available in liter
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
-| MS COCO
+| MS COCO ||||
+| ILSVRC ||||
+| YFCC100M ||||
+| COGNIMUSE ||||
+| SNAG ||||
+| UR-Funny ||||
+| Bag-of-Lies ||||
+| MARC ||||
+| MuSE ||||
+| BabelPic ||||
+| Eye4Ref ||||
+| Troll Memes ||||
+| SEMD ||||
+| Chat talk Corpus ||||
+| EMOTyDA ||||
+| MELINDA ||||
+| NewsCLIPpings ||||
+| R2VQ ||||
+| M2H2 ||||

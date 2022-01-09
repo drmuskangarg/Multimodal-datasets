@@ -11,17 +11,48 @@ We found that although 100+ multimodal language resources are available in liter
 
 1. **Sentiment Analysis**
 
-| **Dataset** | **Paper** | **Dataset Link** | **Paper Link** |
+| **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
+| ----------------- | ---------------------- |---------------------- |------------------------ |
+| 
 
-3. **Machine Translation**
-4. **Information Retrieval**
-5. **Question Answering**
-6. **Summarization**
-7. **Human Computer Interaction**
-8. **Semantic Analysis**
-9. **Miscellaneous**
+2. **Machine Translation**
 
-# Dataset Details
+| **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
+| ----------------- | ---------------------- |---------------------- |------------------------ |
+| 
+
+3. **Information Retrieval**
+
+| **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
+| ----------------- | ---------------------- |---------------------- |------------------------ |
+| 
+
+4. **Question Answering**
+
+| **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
+| ----------------- | ---------------------- |---------------------- |------------------------ |
+| 
+
+5. **Summarization**
+
+| **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
+| ----------------- | ---------------------- |---------------------- |------------------------ |
+| 
+
+6. **Human Computer Interaction**
+
+| **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
+| ----------------- | ---------------------- |---------------------- |------------------------ |
+| 
+
+7. **Semantic Analysis**
+
+| **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
+| ----------------- | ---------------------- |---------------------- |------------------------ |
+| 
+
+8. **Miscellaneous**
+
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
 | 

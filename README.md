@@ -52,7 +52,7 @@ We found that although 100+ multimodal language resources are available in liter
 | IKEA | A Visual Attention Grounding Neural Model for Multimodal Machine Translation |https://arxiv.org/pdf/1808.08266.pdf | https://github.com/sampalomad/IKEA-Dataset | 
 | Flickr30K (EN- (hi-IN)) | Multimodal Neural Machine Translation for Low-resource Language Pairs using Synthetic Data |https://aclanthology.org/W18-3405.pdf | On Request | 
 | Hindi Visual Genome | Hindi Visual Genome: A Dataset for Multimodal English-to-Hindi Machine Translation |https://arxiv.org/pdf/1907.08948.pdf | https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997 | 
-| HowTo100M | Multilingual Multimodal Pre-training for Zero-Shot Cross-Lingual Transfer of Vision-Language Models |2103.08849.pdf (arxiv.org) | berniebear/Multi-HT100M (github.com) | 
+| HowTo100M | Multilingual Multimodal Pre-training for Zero-Shot Cross-Lingual Transfer of Vision-Language Models | https://arxiv.org/pdf/2103.08849.pdf | https://github.com/berniebear/Multi-HT100M | 
 
 
 3. **Information Retrieval**

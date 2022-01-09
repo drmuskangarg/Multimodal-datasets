@@ -58,35 +58,86 @@ We found that although 100+ multimodal language resources are available in liter
 3. **Information Retrieval**
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
-| ----------------- | ---------------------- |---------------------- |------------------------ |
-| 
+| ----------------- | ---------------------- |---------------------- |------------------------ | MUSICLEF ||||
+| Moodo ||||
+| ALF-200k ||||
+| MQA ||||
+| WAT2019 ||||
+| ViTT ||||
+| MTD ||||
+| MusiClef ||||
+| Schubert Winterreise ||||
+| WIT ||||
 
 4. **Question Answering**
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
-| ----------------- | ---------------------- |---------------------- |------------------------ |
-| 
+| ----------------- | ---------------------- |---------------------- |------------------------ | MQA ||||
+| MovieQA ||||
+| PororoQA ||||
+| MemexQA ||||
+| VQA ||||
+| TDIUC ||||
+| TGIF-QA ||||
+| MSVD QA, MSRVTT QA ||||
+| YouTube2Text ||||
+| MovieFIB ||||
+| Video Context QA ||||
+| MarioQA ||||
+| TVQA ||||
+| VQA-CP v2 ||||
+| RecipeQA ||||
+| GQA ||||
+| Social IQ ||||
+| MIMOQA ||||
+
 
 5. **Summarization**
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
-| 
+| SumMe ||||
+| TVSum ||||
+| QFVS ||||
+| Dev AM ||||
+| MMSS ||||
+| MSMO ||||
+| Screen2Words ||||
+| MM AVS ||||
+| AVIATE ||||
+| Multimodal Microblog Summarizaion ||||
+
 
 6. **Human Computer Interaction**
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
-| 
+| CAUVE ||||
+| MHAD ||||
+| Multi-party interactions ||||
+| MHHRI ||||
+| Red Hen Lab ||||
+| EMRE ||||
+| Chinese Whispers ||||
+| uulmMAC ||||
 
 7. **Semantic Analysis**
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
-| 
+| WN9-IMG ||||
+| Wikimedia Commons ||||
+| Starsem18-multimodalKB ||||
+| MUStARD ||||
+| YouMakeup ||||
+| MDID ||||
+| Social media posts from Flickr (Mental Health) ||||
+| Twitter MEL ||||
+| MultiMET ||||
+| MSDS ||||
 
 8. **Miscellaneous**
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
-| 
+| MS COCO

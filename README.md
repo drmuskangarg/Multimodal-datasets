@@ -74,10 +74,10 @@ We found that although 100+ multimodal language resources are available in liter
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ | 
-| MQA ||Paper | Dataset | 
-| MovieQA ||Paper | Dataset | 
-| PororoQA ||Paper | Dataset | 
-| MemexQA ||Paper | Dataset | 
+| MQA | A Dataset for Multimodal Question Answering in the Cultural Heritage Domain | https://aclanthology.org/W16-4003.pdf | - | 
+| MovieQA |Movieqa: Understanding stories in movies through question-answering	MovieQA	| https://arxiv.org/pdf/1512.02902.pdf |  https://github.com/makarandtapaswi/MovieQA_CVPR2016 |	
+| PororoQA |Deep story video story qa by deep embedded memory networks|	https://arxiv.org/ftp/arxiv/papers/1707/1707.00836.pdf |	https://github.com/Kyung-Min/Deep-Embedded-Memory-Networks| 
+| MemexQA |MemexQA: Visual Memex Question Answering |	https://arxiv.org/pdf/1708.01336.pdf |	https://memexqa.cs.cmu.edu/ | 
 | VQA ||Paper | Dataset | 
 | TDIUC ||Paper | Dataset | 
 | TGIF-QA ||Paper | Dataset | 

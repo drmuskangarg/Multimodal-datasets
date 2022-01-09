@@ -22,6 +22,6 @@ We found that although 100+ multimodal language resources are available in liter
 9. **Miscellaneous**
 
 # Dataset Details
-| Dataset       | Title of the Paper | Link of the Paper | Link of the Dataset |
-| ------------- | ------------------ |------------------ |-------------------- |
+| **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
+| ----------------- | ---------------------- |---------------------- |------------------------ |
 | 

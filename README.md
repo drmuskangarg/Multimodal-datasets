@@ -65,10 +65,10 @@ We found that although 100+ multimodal language resources are available in liter
 | MQA | Can Image Captioning Help Passage Retrieval in Multimodal Question Answering? |https://www.springerprofessional.de/en/can-image-captioning-help-passage-retrieval-in-multimodal-questi/16626696 | https://huggingface.co/datasets/clips/mqa | 
 | WAT2019 | WAT2019: English-Hindi Translation on Hindi Visual Genome Dataset |https://github.com/sheffieldnlp/mlt	| https://aclanthology.org/L18-1602.pdf | 
 | ViTT | Multimodal Pretraining for Dense Video Captioning |https://arxiv.org/pdf/2011.11760.pdf | https://github.com/google-research-datasets/Video-Timeline-Tags-ViTT | 
-| MTD ||Paper | Dataset | 
-| MusiClef ||Paper | Dataset | 
-| Schubert Winterreise ||Paper | Dataset | 
-| WIT ||Paper | Dataset | 
+| MTD | MTD: A Multimodal Dataset of Musical Themes for MIR Research |https://transactions.ismir.net/articles/10.5334/tismir.68/ | https://www.audiolabs-erlangen.de/resources/MIR/MTD | 
+| MusiClef | A professionally annotated and enriched multimodal data set on popular music|https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.302.2718&rep=rep1&type=pdf | http://www.cp.jku.at/datasets/musiclef/index.html | 
+| Schubert Winterreise | Schubert Winterreise dataset: A multimodal scenario for music analysis |https://dl.acm.org/doi/pdf/10.1145/3429743 | https://zenodo.org/record/3968389#.YcQrk2hBxPY | 
+| WIT | WIT: Wikipedia-based Image Text Dataset for Multimodal Multilingual Machine Learning |https://arxiv.org/pdf/2103.01913.pdf | https://github.com/google-research-datasets/wit | 
 
 4. **Question Answering**
 

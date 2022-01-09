@@ -78,18 +78,18 @@ We found that although 100+ multimodal language resources are available in liter
 | MovieQA |Movieqa: Understanding stories in movies through question-answering	MovieQA	| https://arxiv.org/pdf/1512.02902.pdf |  https://github.com/makarandtapaswi/MovieQA_CVPR2016 |	
 | PororoQA |Deep story video story qa by deep embedded memory networks|	https://arxiv.org/ftp/arxiv/papers/1707/1707.00836.pdf |	https://github.com/Kyung-Min/Deep-Embedded-Memory-Networks| 
 | MemexQA |MemexQA: Visual Memex Question Answering |	https://arxiv.org/pdf/1708.01336.pdf |	https://memexqa.cs.cmu.edu/ | 
-| VQA ||Paper | Dataset | 
-| TDIUC ||Paper | Dataset | 
-| TGIF-QA ||Paper | Dataset | 
-| MSVD QA, MSRVTT QA ||Paper | Dataset | 
-| YouTube2Text ||Paper | Dataset | 
-| MovieFIB ||Paper | Dataset | 
-| Video Context QA ||Paper | Dataset | 
-| MarioQA ||Paper | Dataset | 
-| TVQA ||Paper | Dataset | 
-| VQA-CP v2 ||Paper | Dataset | 
-| RecipeQA ||Paper | Dataset | 
-| GQA ||Paper | Dataset | 
+| VQA |Making the V in VQA matter: Elevating the role of image understanding in Visual Question Answering |	https://arxiv.org/pdf/1612.00837.pdf |	https://visualqa.org/| 
+| TDIUC |An analysis of visual question answering algorithms	| https://openaccess.thecvf.com/content_ICCV_2017/papers/Kafle_An_Analysis_of_ICCV_2017_paper.pdf	| https://kushalkafle.com/projects/tdiuc.html | 
+| TGIF-QA |TGIF-QA: Toward spatio-temporal reasoning in visual question answering |	https://arxiv.org/pdf/1704.04497.pdf |	https://github.com/YunseokJANG/tgif-qa | 
+| MSVD QA, MSRVTT QA |Video question answering via attribute augmented attention network learning |	https://arxiv.org/pdf/1707.06355.pdf |	https://github.com/xudejing/video-question-answering | 
+| YouTube2Text |Video Question Answering via Gradually Refined Attention over Appearance and Motion |	http://staff.ustc.edu.cn/~hexn/papers/mm17-videoQA.pdf	| https://github.com/topics/youtube2text | 
+| MovieFIB |A dataset and exploration of models for understanding video data through fill-in-the-blank question-answering |	https://arxiv.org/pdf/1611.07810.pdf |	https://github.com/teganmaharaj/MovieFIB/blob/master/README.md | 
+| Video Context QA |Uncovering the temporal context for video question answering |	https://arxiv.org/pdf/1511.04670.pdf |	https://github.com/ffmpbgrnn/VideoQA | 
+| MarioQA |Marioqa: Answering questions by watching gameplay videos |	https://arxiv.org/pdf/1612.01669.pdf |	https://github.com/JonghwanMun/MarioQA | 
+| TVQA |Tvqa: Localized, compositional video question answering |	https://arxiv.org/pdf/1809.01696.pdf |	https://tvqa.cs.unc.edu/ | 
+| VQA-CP v2 |Don’t just assume; look and answer: Overcoming priors for visual question answering |	https://arxiv.org/pdf/1712.00377.pdf |	https://github.com/cdancette/vqa-cp-leaderboard | 
+| RecipeQA | RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes|https://arxiv.org/pdf/1809.00812.pdf | https://hucvl.github.io/recipeqa/ | 
+| GQA |GQA: A new dataset for real-world visual reasoning and compositional question answering	| https://arxiv.org/pdf/1902.09506v3.pdf |	https://github.com/leaderj1001/Vision-Language | 
 | Social IQ ||Paper | Dataset | 
 | MIMOQA ||Paper | Dataset | 
 

@@ -32,14 +32,14 @@ We found that although 100+ multimodal language resources are available in liter
 | CMU-MOSEI| Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph |https://aclanthology.org/P18-1208.pdf | https://github.com/A2Zadeh/CMU-MultimodalSDK | 
 | AMMER| Towards Multimodal Emotion Recognition in German Speech Events in Cars using Transfer Learning |https://arxiv.org/pdf/1909.02764.pdf | On Request | 
 | SEWA| SEWA DB: A Rich Database for Audio-Visual Emotion and Sentiment Research in the Wild |https://arxiv.org/pdf/1901.02839.pdf | http://www.sewaproject.eu/resources | 
-| Fakeddit||Paper | Dataset | 
-| CMU-MOSEAS||Paper | Dataset | 
-| MultiOFF||Paper | Dataset | 
-| MEISD||Paper | Dataset | 
-| TASS||Paper | Dataset | 
-| CH SIMS||Paper | Dataset | 
-| Creep-Image||Paper | Dataset | 
-| Entheos||Paper | Dataset | 
+| Fakeddit| r/fakeddit: A new multimodal benchmark dataset for fine-grained fake news detection |https://arxiv.org/pdf/1911.03854.pdf | https://fakeddit.netlify.app/ | 
+| CMU-MOSEAS| CMU-MOSEAS: A Multimodal Language Dataset for Spanish, Portuguese, German and French |https://aclanthology.org/2020.emnlp-main.141.pdf | https://bit.ly/2Svbg9f | 
+| MultiOFF| Multimodal meme dataset (MultiOFF) for identifying offensive content in image and text |https://aclanthology.org/2020.trac-1.6.pdf | https://github.com/bharathichezhiyan/Multimodal-Meme-Classification-Identifying-Offensive-Content-in-Image-and-Text | 
+| MEISD| MEISD: A Multimodal Multi-Label Emotion, Intensity and Sentiment Dialogue Dataset for Emotion Recognition and Sentiment Analysis in Conversations |https://aclanthology.org/2020.coling-main.393.pdf | https://github.com/declare-lab/MELD | 
+| TASS| Overview of TASS 2020: Introducing Emotion  |http://ceur-ws.org/Vol-2664/tass_overview.pdf | http://www.sepln.org/workshops/tass/tass_data/download.php | 
+| CH SIMS| CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality |https://aclanthology.org/2020.acl-main.343.pdf | https://github.com/thuiar/MMSA | 
+| Creep-Image| A Multimodal Dataset of Images and Text |http://ceur-ws.org/Vol-2769/paper_11.pdf | https://github.com/dhfbk/creep-image-dataset | 
+| Entheos| Entheos: A Multimodal Dataset for Studying Enthusiasm |https://aclanthology.org/2021.findings-acl.180.pdf | https://github.com/clviegas/Entheos-Dataset | 
  
 
 2. **Machine Translation**

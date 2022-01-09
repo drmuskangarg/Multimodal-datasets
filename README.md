@@ -59,11 +59,11 @@ We found that although 100+ multimodal language resources are available in liter
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ | 
-| MUSICLEF ||Paper | Dataset | 
-| Moodo ||Paper | Dataset | 
-| ALF-200k ||Paper | Dataset | 
-| MQA ||Paper | Dataset | 
-| WAT2019 ||Paper | Dataset | 
+| MUSICLEF | MusiCLEF: a Benchmark Activity in Multimodal Music Information Retrieval |https://ismir2011.ismir.net/papers/OS6-3.pdf | http://www.cp.jku.at/datasets/musiclef/index.html | 
+| Moodo | The Moodo dataset: Integrating user context with emotional and color perception of music for affective music information retrieval |https://www.tandfonline.com/doi/pdf/10.1080/09298215.2017.1333518?casa_token=GxB97r7M-WMAAAAA:7ZfS-mY7f3WTP0FBbpiaSIdU-tcRXdIIwCiLLCG8ghkw_FTRn_Ha3cPD7s_6i29RwLBd6EPJmg | http://moodo.musiclab.si | 
+| ALF-200k | ALF-200k: Towards Extensive Multimodal Analyses of Music Tracks and Playlists |https://dbis-informatik.uibk.ac.at/sites/default/files/2018-04/ecir-2018-alf.pdf | https://github.com/dbis-uibk/ALF200k | 
+| MQA | Can Image Captioning Help Passage Retrieval in Multimodal Question Answering? |https://www.springerprofessional.de/en/can-image-captioning-help-passage-retrieval-in-multimodal-questi/16626696 | https://huggingface.co/datasets/clips/mqa | 
+| WAT2019 | WAT2019: English-Hindi Translation on Hindi Visual Genome Dataset |https://github.com/sheffieldnlp/mlt	| https://aclanthology.org/L18-1602.pdf | 
 | ViTT ||Paper | Dataset | 
 | MTD ||Paper | Dataset | 
 | MusiClef ||Paper | Dataset | 

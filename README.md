@@ -10,10 +10,13 @@ We found that although 100+ multimodal language resources are available in liter
 # Multimodal datasets for NLP Applications
 
 1. **Sentiment Analysis**
-2. **Machine Translation**
-3. **Information Retrieval**
-4. **Question Answering**
-5. **Summarization**
-6. **Human Computer Interaction**
-7. **Semantic Analysis**
-8. **Miscellaneous**
+
+| **Dataset** | **Paper** | **Dataset Link** | **Paper Link** |
+
+3. **Machine Translation**
+4. **Information Retrieval**
+5. **Question Answering**
+6. **Summarization**
+7. **Human Computer Interaction**
+8. **Semantic Analysis**
+9. **Miscellaneous**

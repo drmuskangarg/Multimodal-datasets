@@ -12,6 +12,7 @@ We found that although 100+ multimodal language resources are available in liter
 1. **Sentiment Analysis**
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
+| ----------------- | ---------------------- |---------------------- |------------------------ |
 | EmoDB|||| 
 | VAM ||||
 | IEMOCAP||||
@@ -44,6 +45,7 @@ We found that although 100+ multimodal language resources are available in liter
 2. **Machine Translation**
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
+| ----------------- | ---------------------- |---------------------- |------------------------ |
 | Multi30K||||
 | How2||||
 | MLT ||||

@@ -64,7 +64,7 @@ We found that although 100+ multimodal language resources are available in liter
 | ALF-200k | ALF-200k: Towards Extensive Multimodal Analyses of Music Tracks and Playlists |https://dbis-informatik.uibk.ac.at/sites/default/files/2018-04/ecir-2018-alf.pdf | https://github.com/dbis-uibk/ALF200k | 
 | MQA | Can Image Captioning Help Passage Retrieval in Multimodal Question Answering? |https://www.springerprofessional.de/en/can-image-captioning-help-passage-retrieval-in-multimodal-questi/16626696 | https://huggingface.co/datasets/clips/mqa | 
 | WAT2019 | WAT2019: English-Hindi Translation on Hindi Visual Genome Dataset |https://github.com/sheffieldnlp/mlt	| https://aclanthology.org/L18-1602.pdf | 
-| ViTT ||Paper | Dataset | 
+| ViTT | Multimodal Pretraining for Dense Video Captioning |https://arxiv.org/pdf/2011.11760.pdf | https://github.com/google-research-datasets/Video-Timeline-Tags-ViTT | 
 | MTD ||Paper | Dataset | 
 | MusiClef ||Paper | Dataset | 
 | Schubert Winterreise ||Paper | Dataset | 

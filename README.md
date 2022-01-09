@@ -13,7 +13,7 @@ We found that although 100+ multimodal language resources are available in liter
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
-| EmoDB|| Paper | Dataset | 
+| EmoDB| A Database of German Emotional Speech| https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.8506&rep=rep1&type=pdf | https://www.kaggle.com/piyushagni5/berlin-database-of-emotional-speech-emodb | 
 | VAM ||Paper | Dataset | 
 | IEMOCAP||Paper | Dataset | 
 | Mimicry||Paper | Dataset | 

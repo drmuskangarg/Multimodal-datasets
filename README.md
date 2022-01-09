@@ -46,7 +46,7 @@ We found that although 100+ multimodal language resources are available in liter
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
-| Multi30K||Paper | Dataset | 
+| Multi30K| |Paper | Dataset | 
 | How2||Paper | Dataset | 
 | MLT ||Paper | Dataset | 
 | IKEA ||Paper | Dataset | 

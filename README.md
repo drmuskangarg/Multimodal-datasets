@@ -90,8 +90,8 @@ We found that although 100+ multimodal language resources are available in liter
 | VQA-CP v2 |Don’t just assume; look and answer: Overcoming priors for visual question answering |	https://arxiv.org/pdf/1712.00377.pdf |	https://github.com/cdancette/vqa-cp-leaderboard | 
 | RecipeQA | RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes|https://arxiv.org/pdf/1809.00812.pdf | https://hucvl.github.io/recipeqa/ | 
 | GQA |GQA: A new dataset for real-world visual reasoning and compositional question answering	| https://arxiv.org/pdf/1902.09506v3.pdf |	https://github.com/leaderj1001/Vision-Language | 
-| Social IQ ||Paper | Dataset | 
-| MIMOQA ||Paper | Dataset | 
+| Social IQ |Social-iq: A question answering benchmark for artificial social intelligence |	https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf |	https://github.com/A2Zadeh/CMU-MultimodalSDK | 
+| MIMOQA |MIMOQA: Multimodal Input Multimodal Output Question Answering |	https://aclanthology.org/2021.naacl-mai | - | 
 
 
 5. **Summarization**

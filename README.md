@@ -151,7 +151,7 @@ We found that although 100+ multimodal language resources are available in liter
 | MuSE |MuSE: a Multimodal Dataset of Stressed Emotion	|[Paper](https://aclanthology.org/2020.lrec-1.187.pdf) | [Dataset](http://lit.eecs.umich.edu/downloads.html) | 
 | BabelPic |Fatality Killed the Cat or: BabelPic, a Multimodal Dataset for Non-Concrete Concept	|[Paper](https://aclanthology.org/2020.acl-main.425.pdf) | [Dataset](https://sapienzanlp.github.io/babelpic/) | 
 | Eye4Ref |Eye4Ref: A Multimodal Eye Movement Dataset of Referentially Complex Situations	|[Paper](https://aclanthology.org/2020.lrec-1.292.pdf) | - | 
-| Troll Memes ||Paper | Dataset | 
+| Troll Memes | A Dataset for Troll Classification of TamilMemes|[Paper](https://aclanthology.org/2020.wildre-1.2.pdf) | [Dataset](https://github.com/sharduls007/TamilMemes) | 
 | SEMD |EmoSen: Generating sentiment and emotion controlled responses in a multimodal dialogue system	|[Paper](https://www.computer.org/csdl/journal/ta/5555/01/09165162/1mcQTrYsXbG) | - | 
 | Chat talk Corpus |Construction and Analysis of a Multimodal Chat-talk Corpus for Dialog Systems Considering Interpersonal Closeness	|[Paper](https://aclanthology.org/2020.lrec-1.56.pdf) | - | 
 | EMOTyDA |Towards Emotion-aided Multi-modal Dialogue Act Classification	|[Paper](https://aclanthology.org/2020.acl-main.402.pdf) | [Dataset](https://github.com/sahatulika15/EMOTyDA) | 

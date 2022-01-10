@@ -104,10 +104,10 @@ We found that although 100+ multimodal language resources are available in liter
 | Dev AM ||Paper | Dataset | 
 | MMSS |Multi-modal Sentence Summarization with Modality Attention and Image Filtering | [Paper](https://www.ijcai.org/proceedings/2018/0577.pdf) | - | 
 | MSMO |MSMO: Multimodal Summarization with Multimodal Output|[Paper](https://aclanthology.org/D18-1448.pdf) | - | 
-| Screen2Words ||Paper | Dataset | 
+| Screen2Words |Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning |	[Paper](https://arxiv.org/pdf/2108.03353.pdf)	| [Dataset](https://github.com/google-research-datasets/screen2words) | 
 | MM AVS ||Paper | Dataset | 
-| AVIATE ||Paper | Dataset | 
-| Multimodal Microblog Summarizaion ||Paper | Dataset | 
+| AVIATE | IEMOCAP: interactive emotional dyadic motion capture database |[Paper](https://link.springer.com/content/pdf/10.1007/s10579-008-9076-6.pdf) | [Dataset](https://sail.usc.edu/software/databases/) | 
+| Multimodal Microblog Summarizaion |On Multimodal Microblog Summarization|[Paper](https://ieeexplore.ieee.org/document/9585070) | - | 
 
 
 6. **Human Computer Interaction**

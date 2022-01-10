@@ -100,9 +100,9 @@ We found that although 100+ multimodal language resources are available in liter
 | ----------------- | ---------------------- |---------------------- |------------------------ |
 | SumMe |Tvsum: Summarizing web videos using titles|[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf) | [Dataset](https://github.com/yalesong/tvsum) | 
 | TVSum |Creating summaries from user videos|[Paper](https://gyglim.github.io/me/papers/GygliECCV14_vsum.pdf) | [Dataset](https://gyglim.github.io/me/vsum/index.html)| 
-| QFVS ||Paper | Dataset | 
+| QFVS |Query-focused video summarization: Dataset, evaluation, and a memory network based approach |	[Paper](https://arxiv.org/abs/1707.04960) |	[Dataset](https://www.aidean-sharghi.com/cvpr2017) | 
 | Dev AM ||Paper | Dataset | 
-| MMSS ||Paper | Dataset | 
+| MMSS |Multi-modal Sentence Summarization with Modality Attention and Image Filtering | [Paper](https://www.ijcai.org/proceedings/2018/0577.pdf) | - | 
 | MSMO ||Paper | Dataset | 
 | Screen2Words ||Paper | Dataset | 
 | MM AVS ||Paper | Dataset | 

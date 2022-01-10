@@ -13,33 +13,33 @@ We found that although 100+ multimodal language resources are available in liter
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
-| EmoDB| A Database of German Emotional Speech| [Paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.8506&rep=rep1&type=pdf) | https://www.kaggle.com/piyushagni5/berlin-database-of-emotional-speech-emodb | 
-| VAM | The Vera am Mittag German Audio-Visual Emotional Speech Database | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4607572)  | https://sail.usc.edu/VAM/vam_release.htm | 
-| IEMOCAP| IEMOCAP: interactive emotional dyadic motion capture database | [Paper](https://link.springer.com/content/pdf/10.1007/s10579-008-9076-6.pdf) | https://sail.usc.edu/software/databases/ | 
+| EmoDB| A Database of German Emotional Speech| [Paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.8506&rep=rep1&type=pdf) | [Dataset](https://www.kaggle.com/piyushagni5/berlin-database-of-emotional-speech-emodb) | 
+| VAM | The Vera am Mittag German Audio-Visual Emotional Speech Database | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4607572)  | [Dataset](https://sail.usc.edu/VAM/vam_release.htm) | 
+| IEMOCAP| IEMOCAP: interactive emotional dyadic motion capture database | [Paper](https://link.springer.com/content/pdf/10.1007/s10579-008-9076-6.pdf) | [Dataset](https://sail.usc.edu/software/databases/) | 
 | Mimicry|A Multimodal Database for Mimicry Analysis| [Paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/sun2011multimodal.pdf) | [Dataset](http://www.mahnob-db.eu/mimicry)  | 
-| YouTube| Towards Multimodal Sentiment Analysis:Harvesting Opinions from the Web| [Paper](https://ict.usc.edu/pubs/Towards%20Multimodal%20Sentiment%20Analysis-%20Harvesting%20Opinions%20from%20The%20Web.pdf) | https://github.com/A2Zadeh/CMU-MultimodalSDK | 
-| HUMAINE| The HUMAINE database | [Paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/sun2011multimodal.pdf) | www.emotion-research.net | 
-| Large Movies| Sentiment classification on Large Movie Review | [Paper](https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf) | https://ai.stanford.edu/~amaas/data/sentiment/ | 
-| SEMAINE| The SEMAINE Database: Annotated Multimodal Records of Emotionally Colored Conversations between a Person and a Limited Agent | [Paper](https://ieeexplore.ieee.org/document/5959155) | https://semaine-db.eu/| 
-| AFEW| Collecting Large, Richly Annotated Facial-Expression Databases from Movies| [Paper](http://users.cecs.anu.edu.au/~adhall/Dhall_Goecke_Lucey_Gedeon_M_2012.pdf) | https://cs.anu.edu.au/few/AFEW.html | 
-| SST| Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank |[Paper](https://aclanthology.org/D13-1170.pdf) | https://metatext.io/datasets/the-stanford-sentiment-treebank-(sst) | 
-| ICT-MMMO| YouTube Movie Reviews: Sentiment Analysis in an AudioVisual Context| [Paper](http://multicomp.cs.cmu.edu/wp-content/uploads/2017/09/2013_IEEEIS_wollmer_youtube.pdf) | https://github.com/A2Zadeh/CMU-MultimodalSDK | 
-| RECOLA| Introducing the RECOLA multimodal corpus of remote collaborative and affective interactions | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6553805) | https://diuf.unifr.ch/main/diva/recola/download.html | 
+| YouTube| Towards Multimodal Sentiment Analysis:Harvesting Opinions from the Web| [Paper](https://ict.usc.edu/pubs/Towards%20Multimodal%20Sentiment%20Analysis-%20Harvesting%20Opinions%20from%20The%20Web.pdf) | [Dataset](https://github.com/A2Zadeh/CMU-MultimodalSDK) | 
+| HUMAINE| The HUMAINE database | [Paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/sun2011multimodal.pdf) | [Dataset](www.emotion-research.net) | 
+| Large Movies| Sentiment classification on Large Movie Review | [Paper](https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf) | [Dataset](https://ai.stanford.edu/~amaas/data/sentiment/) | 
+| SEMAINE| The SEMAINE Database: Annotated Multimodal Records of Emotionally Colored Conversations between a Person and a Limited Agent | [Paper](https://ieeexplore.ieee.org/document/5959155) | [Dataset](https://semaine-db.eu/)| 
+| AFEW| Collecting Large, Richly Annotated Facial-Expression Databases from Movies| [Paper](http://users.cecs.anu.edu.au/~adhall/Dhall_Goecke_Lucey_Gedeon_M_2012.pdf) | [Dataset](https://cs.anu.edu.au/few/AFEW.html) | 
+| SST| Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank |[Paper](https://aclanthology.org/D13-1170.pdf) | [Dataset](https://metatext.io/datasets/the-stanford-sentiment-treebank-(sst)) | 
+| ICT-MMMO| YouTube Movie Reviews: Sentiment Analysis in an AudioVisual Context| [Paper](http://multicomp.cs.cmu.edu/wp-content/uploads/2017/09/2013_IEEEIS_wollmer_youtube.pdf) | [Dataset](https://github.com/A2Zadeh/CMU-MultimodalSDK) | 
+| RECOLA| Introducing the RECOLA multimodal corpus of remote collaborative and affective interactions | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6553805) | [Dataset](https://diuf.unifr.ch/main/diva/recola/download.html) | 
 | MOUD| Utterance-Level Multimodal Sentiment Analysis |[Paper](https://aclanthology.org/P13-1096.pdf) |  | 
-| CMU-MOSI| MOSI: Multimodal Corpus of Sentiment Intensity and Subjectivity Analysis in Online Opinion Videos | [Paper](https://arxiv.org/ftp/arxiv/papers/1606/1606.06259.pdf) | https://github.com/A2Zadeh/CMU-MultimodalSDK | 
-| POM| Multimodal Analysis and Prediction of Persuasiveness in Online Social Multimedia | [Paper](https://dl.acm.org/doi/pdf/10.1145/2897739) | https://github.com/eusip/POM | 
-| MELD| MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations | [Paper](https://arxiv.org/pdf/1810.02508.pdf) | https://affective-meld.github.io/ | 
-| CMU-MOSEI| Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph | [Paper](https://aclanthology.org/P18-1208.pdf) | https://github.com/A2Zadeh/CMU-MultimodalSDK | 
+| CMU-MOSI| MOSI: Multimodal Corpus of Sentiment Intensity and Subjectivity Analysis in Online Opinion Videos | [Paper](https://arxiv.org/ftp/arxiv/papers/1606/1606.06259.pdf) | [Dataset](https://github.com/A2Zadeh/CMU-MultimodalSDK) | 
+| POM| Multimodal Analysis and Prediction of Persuasiveness in Online Social Multimedia | [Paper](https://dl.acm.org/doi/pdf/10.1145/2897739) | [Dataset](https://github.com/eusip/POM) | 
+| MELD| MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations | [Paper](https://arxiv.org/pdf/1810.02508.pdf) | [Dataset](https://affective-meld.github.io/) | 
+| CMU-MOSEI| Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph | [Paper](https://aclanthology.org/P18-1208.pdf) | [Dataset](https://github.com/A2Zadeh/CMU-MultimodalSDK) | 
 | AMMER| Towards Multimodal Emotion Recognition in German Speech Events in Cars using Transfer Learning | [Paper](https://arxiv.org/pdf/1909.02764.pdf) | On Request | 
-| SEWA| SEWA DB: A Rich Database for Audio-Visual Emotion and Sentiment Research in the Wild | [Paper](https://arxiv.org/pdf/1901.02839.pdf) | http://www.sewaproject.eu/resources | 
-| Fakeddit| r/fakeddit: A new multimodal benchmark dataset for fine-grained fake news detection |[Paper](https://arxiv.org/pdf/1911.03854.pdf) | https://fakeddit.netlify.app/ | 
-| CMU-MOSEAS| CMU-MOSEAS: A Multimodal Language Dataset for Spanish, Portuguese, German and French |[Paper](https://aclanthology.org/2020.emnlp-main.141.pdf) | https://bit.ly/2Svbg9f | 
-| MultiOFF| Multimodal meme dataset (MultiOFF) for identifying offensive content in image and text | [Paper](https://aclanthology.org/2020.trac-1.6.pdf) | https://github.com/bharathichezhiyan/Multimodal-Meme-Classification-Identifying-Offensive-Content-in-Image-and-Text | 
-| MEISD| MEISD: A Multimodal Multi-Label Emotion, Intensity and Sentiment Dialogue Dataset for Emotion Recognition and Sentiment Analysis in Conversations | [Paper](https://aclanthology.org/2020.coling-main.393.pdf) | https://github.com/declare-lab/MELD | 
-| TASS| Overview of TASS 2020: Introducing Emotion  | [Paper](http://ceur-ws.org/Vol-2664/tass_overview.pdf) | http://www.sepln.org/workshops/tass/tass_data/download.php | 
+| SEWA| SEWA DB: A Rich Database for Audio-Visual Emotion and Sentiment Research in the Wild | [Paper](https://arxiv.org/pdf/1901.02839.pdf) | [Dataset](http://www.sewaproject.eu/resources) | 
+| Fakeddit| r/fakeddit: A new multimodal benchmark dataset for fine-grained fake news detection |[Paper](https://arxiv.org/pdf/1911.03854.pdf) | [Dataset](https://fakeddit.netlify.app/) | 
+| CMU-MOSEAS| CMU-MOSEAS: A Multimodal Language Dataset for Spanish, Portuguese, German and French |[Paper](https://aclanthology.org/2020.emnlp-main.141.pdf) | [Dataset](https://bit.ly/2Svbg9f) | 
+| MultiOFF| Multimodal meme dataset (MultiOFF) for identifying offensive content in image and text | [Paper](https://aclanthology.org/2020.trac-1.6.pdf) | [Dataset](https://github.com/bharathichezhiyan/Multimodal-Meme-Classification-Identifying-Offensive-Content-in-Image-and-Text) | 
+| MEISD| MEISD: A Multimodal Multi-Label Emotion, Intensity and Sentiment Dialogue Dataset for Emotion Recognition and Sentiment Analysis in Conversations | [Paper](https://aclanthology.org/2020.coling-main.393.pdf) | [Dataset](https://github.com/declare-lab/MELD) | 
+| TASS| Overview of TASS 2020: Introducing Emotion  | [Paper](http://ceur-ws.org/Vol-2664/tass_overview.pdf) | [Dataset](http://www.sepln.org/workshops/tass/tass_data/download.php) | 
 | CH SIMS| CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality | [Paper](https://aclanthology.org/2020.acl-main.343.pdf) | https://github.com/thuiar/MMSA | 
-| Creep-Image| A Multimodal Dataset of Images and Text | [Paper](http://ceur-ws.org/Vol-2769/paper_11.pdf) | https://github.com/dhfbk/creep-image-dataset | 
-| Entheos| Entheos: A Multimodal Dataset for Studying Enthusiasm | [Paper](https://aclanthology.org/2021.findings-acl.180.pdf) | https://github.com/clviegas/Entheos-Dataset | 
+| Creep-Image| A Multimodal Dataset of Images and Text | [Paper](http://ceur-ws.org/Vol-2769/paper_11.pdf) | [Dataset](https://github.com/dhfbk/creep-image-dataset) | 
+| Entheos| Entheos: A Multimodal Dataset for Studying Enthusiasm | [Paper](https://aclanthology.org/2021.findings-acl.180.pdf) | [Dataset](https://github.com/clviegas/Entheos-Dataset) | 
  
 
 2. **Machine Translation**

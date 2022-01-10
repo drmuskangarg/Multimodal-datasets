@@ -23,7 +23,7 @@ We found that although 100+ multimodal language resources are available in liter
 | SEMAINE| The SEMAINE Database: Annotated Multimodal Records of Emotionally Colored Conversations between a Person and a Limited Agent | [Paper](https://ieeexplore.ieee.org/document/5959155) | https://semaine-db.eu/| 
 | AFEW| Collecting Large, Richly Annotated Facial-Expression Databases from Movies| [Paper](http://users.cecs.anu.edu.au/~adhall/Dhall_Goecke_Lucey_Gedeon_M_2012.pdf) | https://cs.anu.edu.au/few/AFEW.html | 
 | SST| Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank |[Paper](https://aclanthology.org/D13-1170.pdf) | https://metatext.io/datasets/the-stanford-sentiment-treebank-(sst) | 
-| ICT-MMMO| YouTube Movie Reviews: Sentiment Analysis in an AudioVisual Context| [Paper]((http://multicomp.cs.cmu.edu/wp-content/uploads/2017/09/2013_IEEEIS_wollmer_youtube.pdf) | https://github.com/A2Zadeh/CMU-MultimodalSDK | 
+| ICT-MMMO| YouTube Movie Reviews: Sentiment Analysis in an AudioVisual Context| [Paper](http://multicomp.cs.cmu.edu/wp-content/uploads/2017/09/2013_IEEEIS_wollmer_youtube.pdf) | https://github.com/A2Zadeh/CMU-MultimodalSDK | 
 | RECOLA| Introducing the RECOLA multimodal corpus of remote collaborative and affective interactions | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6553805) | https://diuf.unifr.ch/main/diva/recola/download.html | 
 | MOUD| Utterance-Level Multimodal Sentiment Analysis |[Paper](https://aclanthology.org/P13-1096.pdf) |  | 
 | CMU-MOSI| MOSI: Multimodal Corpus of Sentiment Intensity and Subjectivity Analysis in Online Opinion Videos | [Paper](https://arxiv.org/ftp/arxiv/papers/1606/1606.06259.pdf) | https://github.com/A2Zadeh/CMU-MultimodalSDK | 
@@ -74,24 +74,24 @@ We found that although 100+ multimodal language resources are available in liter
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ | 
-| MQA | A Dataset for Multimodal Question Answering in the Cultural Heritage Domain | https://aclanthology.org/W16-4003.pdf | - | 
-| MovieQA |Movieqa: Understanding stories in movies through question-answering	MovieQA	| https://arxiv.org/pdf/1512.02902.pdf |  https://github.com/makarandtapaswi/MovieQA_CVPR2016 |	
-| PororoQA |Deep story video story qa by deep embedded memory networks|	https://arxiv.org/ftp/arxiv/papers/1707/1707.00836.pdf |	https://github.com/Kyung-Min/Deep-Embedded-Memory-Networks| 
-| MemexQA |MemexQA: Visual Memex Question Answering |	https://arxiv.org/pdf/1708.01336.pdf |	https://memexqa.cs.cmu.edu/ | 
-| VQA |Making the V in VQA matter: Elevating the role of image understanding in Visual Question Answering |	https://arxiv.org/pdf/1612.00837.pdf |	https://visualqa.org/| 
-| TDIUC |An analysis of visual question answering algorithms	| https://openaccess.thecvf.com/content_ICCV_2017/papers/Kafle_An_Analysis_of_ICCV_2017_paper.pdf	| https://kushalkafle.com/projects/tdiuc.html | 
-| TGIF-QA |TGIF-QA: Toward spatio-temporal reasoning in visual question answering |	https://arxiv.org/pdf/1704.04497.pdf |	https://github.com/YunseokJANG/tgif-qa | 
-| MSVD QA, MSRVTT QA |Video question answering via attribute augmented attention network learning |	https://arxiv.org/pdf/1707.06355.pdf |	https://github.com/xudejing/video-question-answering | 
-| YouTube2Text |Video Question Answering via Gradually Refined Attention over Appearance and Motion |	http://staff.ustc.edu.cn/~hexn/papers/mm17-videoQA.pdf	| https://github.com/topics/youtube2text | 
-| MovieFIB |A dataset and exploration of models for understanding video data through fill-in-the-blank question-answering |	https://arxiv.org/pdf/1611.07810.pdf |	https://github.com/teganmaharaj/MovieFIB/blob/master/README.md | 
-| Video Context QA |Uncovering the temporal context for video question answering |	https://arxiv.org/pdf/1511.04670.pdf |	https://github.com/ffmpbgrnn/VideoQA | 
-| MarioQA |Marioqa: Answering questions by watching gameplay videos |	https://arxiv.org/pdf/1612.01669.pdf |	https://github.com/JonghwanMun/MarioQA | 
-| TVQA |Tvqa: Localized, compositional video question answering |	https://arxiv.org/pdf/1809.01696.pdf |	https://tvqa.cs.unc.edu/ | 
-| VQA-CP v2 |Don’t just assume; look and answer: Overcoming priors for visual question answering |	https://arxiv.org/pdf/1712.00377.pdf |	https://github.com/cdancette/vqa-cp-leaderboard | 
-| RecipeQA | RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes|https://arxiv.org/pdf/1809.00812.pdf | https://hucvl.github.io/recipeqa/ | 
-| GQA |GQA: A new dataset for real-world visual reasoning and compositional question answering	| https://arxiv.org/pdf/1902.09506v3.pdf |	https://github.com/leaderj1001/Vision-Language | 
-| Social IQ |Social-iq: A question answering benchmark for artificial social intelligence |	https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf |	https://github.com/A2Zadeh/CMU-MultimodalSDK | 
-| MIMOQA |MIMOQA: Multimodal Input Multimodal Output Question Answering |	https://aclanthology.org/2021.naacl-mai | - | 
+| MQA | A Dataset for Multimodal Question Answering in the Cultural Heritage Domain | [Paper](https://aclanthology.org/W16-4003.pdf) | - | 
+| MovieQA |Movieqa: Understanding stories in movies through question-answering	MovieQA	| [Paper](https://arxiv.org/pdf/1512.02902.pdf) |  https://github.com/makarandtapaswi/MovieQA_CVPR2016 |	
+| PororoQA |Deep story video story qa by deep embedded memory networks|	[Paper](https://arxiv.org/ftp/arxiv/papers/1707/1707.00836.pdf) |	https://github.com/Kyung-Min/Deep-Embedded-Memory-Networks| 
+| MemexQA |MemexQA: Visual Memex Question Answering |	[Paper](https://arxiv.org/pdf/1708.01336.pdf) |	https://memexqa.cs.cmu.edu/ | 
+| VQA |Making the V in VQA matter: Elevating the role of image understanding in Visual Question Answering |	[Paper](https://arxiv.org/pdf/1612.00837.pdf) |	https://visualqa.org/| 
+| TDIUC |An analysis of visual question answering algorithms	| [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Kafle_An_Analysis_of_ICCV_2017_paper.pdf)	| https://kushalkafle.com/projects/tdiuc.html | 
+| TGIF-QA |TGIF-QA: Toward spatio-temporal reasoning in visual question answering |	[Paper](https://arxiv.org/pdf/1704.04497.pdf) |	https://github.com/YunseokJANG/tgif-qa | 
+| MSVD QA, MSRVTT QA |Video question answering via attribute augmented attention network learning |	[Paper](https://arxiv.org/pdf/1707.06355.pdf) |	https://github.com/xudejing/video-question-answering | 
+| YouTube2Text |Video Question Answering via Gradually Refined Attention over Appearance and Motion |	[Paper](http://staff.ustc.edu.cn/~hexn/papers/mm17-videoQA.pdf)	| https://github.com/topics/youtube2text | 
+| MovieFIB |A dataset and exploration of models for understanding video data through fill-in-the-blank question-answering |	[Paper](https://arxiv.org/pdf/1611.07810.pdf) |	https://github.com/teganmaharaj/MovieFIB/blob/master/README.md | 
+| Video Context QA |Uncovering the temporal context for video question answering |	[Paper](https://arxiv.org/pdf/1511.04670.pdf) |	https://github.com/ffmpbgrnn/VideoQA | 
+| MarioQA |Marioqa: Answering questions by watching gameplay videos |	[Paper](https://arxiv.org/pdf/1612.01669.pdf) |	https://github.com/JonghwanMun/MarioQA | 
+| TVQA |Tvqa: Localized, compositional video question answering |	[Paper](https://arxiv.org/pdf/1809.01696.pdf) |	https://tvqa.cs.unc.edu/ | 
+| VQA-CP v2 |Don’t just assume; look and answer: Overcoming priors for visual question answering |	[Paper](https://arxiv.org/pdf/1712.00377.pdf) |	https://github.com/cdancette/vqa-cp-leaderboard | 
+| RecipeQA | RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes| [Paper](https://arxiv.org/pdf/1809.00812.pdf) | https://hucvl.github.io/recipeqa/ | 
+| GQA |GQA: A new dataset for real-world visual reasoning and compositional question answering	| [Paper](https://arxiv.org/pdf/1902.09506v3.pdf) |	https://github.com/leaderj1001/Vision-Language | 
+| Social IQ |Social-iq: A question answering benchmark for artificial social intelligence |	[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) |	https://github.com/A2Zadeh/CMU-MultimodalSDK | 
+| MIMOQA |MIMOQA: Multimodal Input Multimodal Output Question Answering |	[Paper](https://aclanthology.org/2021.naacl-mai) | - | 
 
 
 5. **Summarization**

@@ -99,7 +99,7 @@ We found that although 100+ multimodal language resources are available in liter
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
 | SumMe |Tvsum: Summarizing web videos using titles|[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf) | [Dataset](https://github.com/yalesong/tvsum) | 
-| TVSum |Creating summaries from user videos|[Paper](https://gyglim.github.io/me/papers/GygliECCV14_vsum.pdf) | [Dataset] (https://gyglim.github.io/me/vsum/index.html)| 
+| TVSum |Creating summaries from user videos|[Paper](https://gyglim.github.io/me/papers/GygliECCV14_vsum.pdf) | [Dataset](https://gyglim.github.io/me/vsum/index.html)| 
 | QFVS ||Paper | Dataset | 
 | Dev AM ||Paper | Dataset | 
 | MMSS ||Paper | Dataset | 

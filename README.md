@@ -119,7 +119,7 @@ We found that although 100+ multimodal language resources are available in liter
 | Multi-party interactions |A Multi-party Multi-modal Dataset for Focus of Visual Attention in Human-human and Human-robot Interaction	| [Paper](https://aclanthology.org/L16-1703.pdf) | - | 
 | MHHRI |Multimodal human-human-robot interactions (mhhri) dataset for studying personality and engagement	| [Paper](https://ieeexplore.ieee.org/document/8003432)|[Dataset](	https://www.cl.cam.ac.uk/research/rainbow/projects/mhhri/) | 
 | Red Hen Lab |Red Hen Lab: Dataset and Tools for Multimodal Human Communication Research	| [Paper](https://link.springer.com/content/pdf/10.1007/s13218-017-0505-9.pdf) | - | 
-| EMRE ||Paper | Dataset | 
+| EMRE | Generating a Novel Dataset of Multimodal Referring Expressions |[Paper](https://aclanthology.org/W19-0507.pdf) | [Dataset](https://github.com/VoxML/public-data/tree/master/EMRE/HIT) | 
 | Chinese Whispers |Chinese whispers: A multimodal dataset for embodied language grounding	| [Paper](https://www.researchgate.net/publication/341294259_Chinese_Whispers_A_Multimodal_Dataset_for_Embodied_Language_Grounding)	|[Dataset](https://zenodo.org/record/4587308#.YbJEctBBxPZ) | 
 | uulmMAC |The uulmMAC database—A multimodal affective corpus for affective computing in human-computer interaction	| [Paper](https://www.mdpi.com/1424-8220/20/8/2308)	|[Dataset](https://neuro.informatik.uni-ulm.de/TC9/tools-and-data-sets/uulmmac-database/) | 
 
@@ -127,15 +127,15 @@ We found that although 100+ multimodal language resources are available in liter
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
-| WN9-IMG ||Paper | Dataset | 
-| Wikimedia Commons ||Paper | Dataset | 
-| Starsem18-multimodalKB ||Paper | Dataset | 
-| MUStARD ||Paper | Dataset | 
-| YouMakeup ||Paper | Dataset | 
-| MDID ||Paper | Dataset | 
-| Social media posts from Flickr (Mental Health) ||Paper | Dataset | 
-| Twitter MEL ||Paper | Dataset | 
-| MultiMET ||Paper | Dataset | 
+| WN9-IMG |Image-embodied Knowledge Representation Learning	| [Paper](https://www.ijcai.org/proceedings/2017/0438.pdf)	|[Dataset](https://github.com/xrb92/IKRL) | 
+| Wikimedia Commons |A Dataset and Reranking Method for Multimodal MT of User-Generated Image Captions	| [Paper](https://aclanthology.org/W18-1814.pdf)	|[Dataset](https://commons.wikimedia.org/wiki/Main_Page) | 
+| Starsem18-multimodalKB |A Multimodal Translation-Based Approach for Knowledge Graph Representation Learning	| [Paper](https://aclanthology.org/S18-2027.pdf)	|[Dataset](	https://github.com/UKPLab/starsem18-multimodalKB) | 
+| MUStARD |Towards Multimodal Sarcasm Detection	| [Paper](https://arxiv.org/pdf/1906.01815.pdf)	|[Dataset](https://github.com/soujanyaporia/MUStARD) | 
+| YouMakeup |YouMakeup: A Large-Scale Domain-Specific Multimodal Dataset for Fine-Grained Semantic Comprehension	| [Paper](https://aclanthology.org/D19-1517.pdf)	|[Dataset](	https://github.com/AIM3-RUC/YouMakeup) | 
+| MDID |Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts	| [Paper](https://arxiv.org/pdf/1904.09073.pdf)	|[Dataset](	https://github.com/karansikka1/documentIntent_emnlp19) | 
+| Social media posts from Flickr (Mental Health) |Inferring Social Media Users’ Mental Health Status from Multimodal Information	| [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7147779/)	|[Dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7147779/) | 
+| Twitter MEL |Building a Multimodal Entity Linking Dataset From Tweets	Building a Multimodal Entity Linking Dataset From Tweets | [Paper](aclanthology.org)	|[Dataset](	https://github.com/OA256864/MEL_Tweets) | 
+| MultiMET | MultiMET: A Multimodal Dataset for Metaphor Understanding |[Paper](https://aclanthology.org/2021.acl-long.249.pdf) | - | 
 | MSDS ||Paper | Dataset | 
 
 8. **Miscellaneous**

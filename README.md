@@ -103,7 +103,7 @@ We found that although 100+ multimodal language resources are available in liter
 | QFVS |Query-focused video summarization: Dataset, evaluation, and a memory network based approach |	[Paper](https://arxiv.org/abs/1707.04960) |	[Dataset](https://www.aidean-sharghi.com/cvpr2017) | 
 | Dev AM ||Paper | Dataset | 
 | MMSS |Multi-modal Sentence Summarization with Modality Attention and Image Filtering | [Paper](https://www.ijcai.org/proceedings/2018/0577.pdf) | - | 
-| MSMO ||Paper | Dataset | 
+| MSMO |MSMO: Multimodal Summarization with Multimodal Output|[Paper](https://aclanthology.org/D18-1448.pdf) | - | 
 | Screen2Words ||Paper | Dataset | 
 | MM AVS ||Paper | Dataset | 
 | AVIATE ||Paper | Dataset | 

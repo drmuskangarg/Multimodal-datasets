@@ -18,7 +18,7 @@ We found that although 100+ multimodal language resources are available in liter
 | IEMOCAP| IEMOCAP: interactive emotional dyadic motion capture database | [Paper](https://link.springer.com/content/pdf/10.1007/s10579-008-9076-6.pdf) | https://sail.usc.edu/software/databases/ | 
 | Mimicry|A Multimodal Database for Mimicry Analysis| [Paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/sun2011multimodal.pdf) | http://www.mahnob-db.eu/mimicry | 
 | YouTube| Towards Multimodal Sentiment Analysis:Harvesting Opinions from the Web|https://ict.usc.edu/pubs/Towards%20Multimodal%20Sentiment%20Analysis-%20Harvesting%20Opinions%20from%20The%20Web.pdf | https://github.com/A2Zadeh/CMU-MultimodalSDK | 
-| HUMAINE| The HUMAINE database |https://ibug.doc.ic.ac.uk/media/uploads/documents/sun2011multimodal.pdf | www.emotion-research.net | 
+| HUMAINE| The HUMAINE database | [Paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/sun2011multimodal.pdf) | www.emotion-research.net | 
 | Large Movies| Sentiment classification on Large Movie Review |https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf | https://ai.stanford.edu/~amaas/data/sentiment/ | 
 | SEMAINE| The SEMAINE Database: Annotated Multimodal Records of Emotionally Colored Conversations between a Person and a Limited Agent |https://ieeexplore.ieee.org/document/5959155 | https://semaine-db.eu/| 
 | AFEW| Collecting Large, Richly Annotated Facial-Expression Databases from Movies|http://users.cecs.anu.edu.au/~adhall/Dhall_Goecke_Lucey_Gedeon_M_2012.pdf | https://cs.anu.edu.au/few/AFEW.html | 
@@ -98,7 +98,7 @@ We found that although 100+ multimodal language resources are available in liter
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
-| SumMe ||Paper | Dataset | 
+| SumMe ||[Paper](**write the paper link here**) | [Dataset](**write the dataset link here**) | 
 | TVSum ||Paper | Dataset | 
 | QFVS ||Paper | Dataset | 
 | Dev AM ||Paper | Dataset | 

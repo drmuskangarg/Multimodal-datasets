@@ -147,7 +147,7 @@ We found that although 100+ multimodal language resources are available in liter
 | SNAG |SNAG: Spoken Narratives and Gaze Dataset	|[Paper](https://aclanthology.org/P18-2022.pdf) | [Dataset](https://mvrl-clasp.github.io/SNAG/) | 
 | UR-Funny |UR-FUNNY: A Multimodal Language Dataset for Understanding Humor	|[Paper](https://arxiv.org/pdf/1904.06618.pdf) | [Dataset](https://github.com/ROC-HCI/UR-FUNNY/blob/master/UR-FUNNY-V1.md)| 
 | Bag-of-Lies |Bag-of-Lies: A Multimodal Dataset for Deception Detection	|[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9025340) | [Dataset](http://iab-rubric.org/resources/BagLies.html) | 
-| MARC ||Paper | Dataset | 
+| MARC |A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks	|[Paper](https://aclanthology.org/2020.acl-main.440.pdf)	| [Dataset](https://github.com/microsoft/multimodal-aligned-recipe-corpus)| 
 | MuSE |MuSE: a Multimodal Dataset of Stressed Emotion	|[Paper](https://aclanthology.org/2020.lrec-1.187.pdf) | [Dataset](http://lit.eecs.umich.edu/downloads.html) | 
 | BabelPic |Fatality Killed the Cat or: BabelPic, a Multimodal Dataset for Non-Concrete Concept	|[Paper](https://aclanthology.org/2020.acl-main.425.pdf) | [Dataset](https://sapienzanlp.github.io/babelpic/) | 
 | Eye4Ref |Eye4Ref: A Multimodal Eye Movement Dataset of Referentially Complex Situations	|[Paper](https://aclanthology.org/2020.lrec-1.292.pdf) | - | 

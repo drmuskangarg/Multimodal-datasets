@@ -37,7 +37,7 @@ We found that although 100+ multimodal language resources are available in liter
 | MultiOFF| Multimodal meme dataset (MultiOFF) for identifying offensive content in image and text | [Paper](https://aclanthology.org/2020.trac-1.6.pdf) | [Dataset](https://github.com/bharathichezhiyan/Multimodal-Meme-Classification-Identifying-Offensive-Content-in-Image-and-Text) | 
 | MEISD| MEISD: A Multimodal Multi-Label Emotion, Intensity and Sentiment Dialogue Dataset for Emotion Recognition and Sentiment Analysis in Conversations | [Paper](https://aclanthology.org/2020.coling-main.393.pdf) | [Dataset](https://github.com/declare-lab/MELD) | 
 | TASS| Overview of TASS 2020: Introducing Emotion  | [Paper](http://ceur-ws.org/Vol-2664/tass_overview.pdf) | [Dataset](http://www.sepln.org/workshops/tass/tass_data/download.php) | 
-| CH SIMS| CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality | [Paper](https://aclanthology.org/2020.acl-main.343.pdf) | https://github.com/thuiar/MMSA | 
+| CH SIMS| CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality | [Paper](https://aclanthology.org/2020.acl-main.343.pdf) | [Dataset](https://github.com/thuiar/MMSA) | 
 | Creep-Image| A Multimodal Dataset of Images and Text | [Paper](http://ceur-ws.org/Vol-2769/paper_11.pdf) | [Dataset](https://github.com/dhfbk/creep-image-dataset) | 
 | Entheos| Entheos: A Multimodal Dataset for Studying Enthusiasm | [Paper](https://aclanthology.org/2021.findings-acl.180.pdf) | [Dataset](https://github.com/clviegas/Entheos-Dataset) | 
  
@@ -60,37 +60,37 @@ We found that although 100+ multimodal language resources are available in liter
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ | 
 | MUSICLEF | MusiCLEF: a Benchmark Activity in Multimodal Music Information Retrieval | [Paper](https://ismir2011.ismir.net/papers/OS6-3.pdf) | http://www.cp.jku.at/datasets/musiclef/index.html | 
-| Moodo | The Moodo dataset: Integrating user context with emotional and color perception of music for affective music information retrieval | [Paper](https://www.tandfonline.com/doi/pdf/10.1080/09298215.2017.1333518?casa_token=GxB97r7M-WMAAAAA:7ZfS-mY7f3WTP0FBbpiaSIdU-tcRXdIIwCiLLCG8ghkw_FTRn_Ha3cPD7s_6i29RwLBd6EPJmg) | http://moodo.musiclab.si | 
-| ALF-200k | ALF-200k: Towards Extensive Multimodal Analyses of Music Tracks and Playlists | [Paper](https://dbis-informatik.uibk.ac.at/sites/default/files/2018-04/ecir-2018-alf.pdf) | https://github.com/dbis-uibk/ALF200k | 
-| MQA | Can Image Captioning Help Passage Retrieval in Multimodal Question Answering? | [Paper](https://www.springerprofessional.de/en/can-image-captioning-help-passage-retrieval-in-multimodal-questi/16626696) | https://huggingface.co/datasets/clips/mqa | 
-| WAT2019 | WAT2019: English-Hindi Translation on Hindi Visual Genome Dataset | [Paper](https://github.com/sheffieldnlp/mlt)	| https://aclanthology.org/L18-1602.pdf | 
-| ViTT | Multimodal Pretraining for Dense Video Captioning | [Paper](https://arxiv.org/pdf/2011.11760.pdf) | https://github.com/google-research-datasets/Video-Timeline-Tags-ViTT | 
-| MTD | MTD: A Multimodal Dataset of Musical Themes for MIR Research | [Paper](https://transactions.ismir.net/articles/10.5334/tismir.68/) | https://www.audiolabs-erlangen.de/resources/MIR/MTD | 
-| MusiClef | A professionally annotated and enriched multimodal data set on popular music| [Paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.302.2718&rep=rep1&type=pdf) | http://www.cp.jku.at/datasets/musiclef/index.html | 
-| Schubert Winterreise | Schubert Winterreise dataset: A multimodal scenario for music analysis | [Paper](https://dl.acm.org/doi/pdf/10.1145/3429743) | https://zenodo.org/record/3968389#.YcQrk2hBxPY | 
-| WIT | WIT: Wikipedia-based Image Text Dataset for Multimodal Multilingual Machine Learning | [Paper](https://arxiv.org/pdf/2103.01913.pdf) | https://github.com/google-research-datasets/wit | 
+| Moodo | The Moodo dataset: Integrating user context with emotional and color perception of music for affective music information retrieval | [Paper](https://www.tandfonline.com/doi/pdf/10.1080/09298215.2017.1333518?casa_token=GxB97r7M-WMAAAAA:7ZfS-mY7f3WTP0FBbpiaSIdU-tcRXdIIwCiLLCG8ghkw_FTRn_Ha3cPD7s_6i29RwLBd6EPJmg) | [Dataset](http://moodo.musiclab.si) | 
+| ALF-200k | ALF-200k: Towards Extensive Multimodal Analyses of Music Tracks and Playlists | [Paper](https://dbis-informatik.uibk.ac.at/sites/default/files/2018-04/ecir-2018-alf.pdf) | [Dataset](https://github.com/dbis-uibk/ALF200k) | 
+| MQA | Can Image Captioning Help Passage Retrieval in Multimodal Question Answering? | [Paper](https://www.springerprofessional.de/en/can-image-captioning-help-passage-retrieval-in-multimodal-questi/16626696) | [Dataset](https://huggingface.co/datasets/clips/mqa) | 
+| WAT2019 | WAT2019: English-Hindi Translation on Hindi Visual Genome Dataset | [Paper](https://github.com/sheffieldnlp/mlt)	| [Dataset](https://aclanthology.org/L18-1602.pdf) | 
+| ViTT | Multimodal Pretraining for Dense Video Captioning | [Paper](https://arxiv.org/pdf/2011.11760.pdf) | [Dataset](https://github.com/google-research-datasets/Video-Timeline-Tags-ViTT) | 
+| MTD | MTD: A Multimodal Dataset of Musical Themes for MIR Research | [Paper](https://transactions.ismir.net/articles/10.5334/tismir.68/) | [Dataset](https://www.audiolabs-erlangen.de/resources/MIR/MTD) | 
+| MusiClef | A professionally annotated and enriched multimodal data set on popular music| [Paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.302.2718&rep=rep1&type=pdf) | [Dataset](http://www.cp.jku.at/datasets/musiclef/index.html) | 
+| Schubert Winterreise | Schubert Winterreise dataset: A multimodal scenario for music analysis | [Paper](https://dl.acm.org/doi/pdf/10.1145/3429743) | [Dataset](https://zenodo.org/record/3968389#.YcQrk2hBxPY) | 
+| WIT | WIT: Wikipedia-based Image Text Dataset for Multimodal Multilingual Machine Learning | [Paper](https://arxiv.org/pdf/2103.01913.pdf) | [Dataset](https://github.com/google-research-datasets/wit) | 
 
 4. **Question Answering**
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ | 
 | MQA | A Dataset for Multimodal Question Answering in the Cultural Heritage Domain | [Paper](https://aclanthology.org/W16-4003.pdf) | - | 
-| MovieQA |Movieqa: Understanding stories in movies through question-answering	MovieQA	| [Paper](https://arxiv.org/pdf/1512.02902.pdf) |  https://github.com/makarandtapaswi/MovieQA_CVPR2016 |	
-| PororoQA |Deep story video story qa by deep embedded memory networks|	[Paper](https://arxiv.org/ftp/arxiv/papers/1707/1707.00836.pdf) |	https://github.com/Kyung-Min/Deep-Embedded-Memory-Networks| 
-| MemexQA |MemexQA: Visual Memex Question Answering |	[Paper](https://arxiv.org/pdf/1708.01336.pdf) |	https://memexqa.cs.cmu.edu/ | 
-| VQA |Making the V in VQA matter: Elevating the role of image understanding in Visual Question Answering |	[Paper](https://arxiv.org/pdf/1612.00837.pdf) |	https://visualqa.org/| 
-| TDIUC |An analysis of visual question answering algorithms	| [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Kafle_An_Analysis_of_ICCV_2017_paper.pdf)	| https://kushalkafle.com/projects/tdiuc.html | 
-| TGIF-QA |TGIF-QA: Toward spatio-temporal reasoning in visual question answering |	[Paper](https://arxiv.org/pdf/1704.04497.pdf) |	https://github.com/YunseokJANG/tgif-qa | 
-| MSVD QA, MSRVTT QA |Video question answering via attribute augmented attention network learning |	[Paper](https://arxiv.org/pdf/1707.06355.pdf) |	https://github.com/xudejing/video-question-answering | 
-| YouTube2Text |Video Question Answering via Gradually Refined Attention over Appearance and Motion |	[Paper](http://staff.ustc.edu.cn/~hexn/papers/mm17-videoQA.pdf)	| https://github.com/topics/youtube2text | 
-| MovieFIB |A dataset and exploration of models for understanding video data through fill-in-the-blank question-answering |	[Paper](https://arxiv.org/pdf/1611.07810.pdf) |	https://github.com/teganmaharaj/MovieFIB/blob/master/README.md | 
-| Video Context QA |Uncovering the temporal context for video question answering |	[Paper](https://arxiv.org/pdf/1511.04670.pdf) |	https://github.com/ffmpbgrnn/VideoQA | 
-| MarioQA |Marioqa: Answering questions by watching gameplay videos |	[Paper](https://arxiv.org/pdf/1612.01669.pdf) |	https://github.com/JonghwanMun/MarioQA | 
-| TVQA |Tvqa: Localized, compositional video question answering |	[Paper](https://arxiv.org/pdf/1809.01696.pdf) |	https://tvqa.cs.unc.edu/ | 
-| VQA-CP v2 |Don’t just assume; look and answer: Overcoming priors for visual question answering |	[Paper](https://arxiv.org/pdf/1712.00377.pdf) |	https://github.com/cdancette/vqa-cp-leaderboard | 
-| RecipeQA | RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes| [Paper](https://arxiv.org/pdf/1809.00812.pdf) | https://hucvl.github.io/recipeqa/ | 
-| GQA |GQA: A new dataset for real-world visual reasoning and compositional question answering	| [Paper](https://arxiv.org/pdf/1902.09506v3.pdf) |	https://github.com/leaderj1001/Vision-Language | 
-| Social IQ |Social-iq: A question answering benchmark for artificial social intelligence |	[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) |	https://github.com/A2Zadeh/CMU-MultimodalSDK | 
+| MovieQA |Movieqa: Understanding stories in movies through question-answering	MovieQA	| [Paper](https://arxiv.org/pdf/1512.02902.pdf) |  [Dataset](https://github.com/makarandtapaswi/MovieQA_CVPR2016) |	
+| PororoQA |Deep story video story qa by deep embedded memory networks|	[Paper](https://arxiv.org/ftp/arxiv/papers/1707/1707.00836.pdf) |	[Dataset](https://github.com/Kyung-Min/Deep-Embedded-Memory-Networks) | 
+| MemexQA |MemexQA: Visual Memex Question Answering |	[Paper](https://arxiv.org/pdf/1708.01336.pdf) |	[Dataset](https://memexqa.cs.cmu.edu/) | 
+| VQA |Making the V in VQA matter: Elevating the role of image understanding in Visual Question Answering |	[Paper](https://arxiv.org/pdf/1612.00837.pdf) |	[Dataset](https://visualqa.org/)| 
+| TDIUC |An analysis of visual question answering algorithms	| [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Kafle_An_Analysis_of_ICCV_2017_paper.pdf)	| [Dataset](https://kushalkafle.com/projects/tdiuc.html) | 
+| TGIF-QA |TGIF-QA: Toward spatio-temporal reasoning in visual question answering |	[Paper](https://arxiv.org/pdf/1704.04497.pdf) |	[Dataset](https://github.com/YunseokJANG/tgif-qa) | 
+| MSVD QA, MSRVTT QA |Video question answering via attribute augmented attention network learning |	[Paper](https://arxiv.org/pdf/1707.06355.pdf) |	[Dataset](https://github.com/xudejing/video-question-answering) | 
+| YouTube2Text |Video Question Answering via Gradually Refined Attention over Appearance and Motion |	[Paper](http://staff.ustc.edu.cn/~hexn/papers/mm17-videoQA.pdf)	| [Dataset](https://github.com/topics/youtube2text) | 
+| MovieFIB |A dataset and exploration of models for understanding video data through fill-in-the-blank question-answering |	[Paper](https://arxiv.org/pdf/1611.07810.pdf) |	[Dataset](https://github.com/teganmaharaj/MovieFIB/blob/master/README.md) | 
+| Video Context QA |Uncovering the temporal context for video question answering |	[Paper](https://arxiv.org/pdf/1511.04670.pdf) |	[Dataset](https://github.com/ffmpbgrnn/VideoQA) | 
+| MarioQA |Marioqa: Answering questions by watching gameplay videos |	[Paper](https://arxiv.org/pdf/1612.01669.pdf) |	[Dataset](https://github.com/JonghwanMun/MarioQA) | 
+| TVQA |Tvqa: Localized, compositional video question answering |	[Paper](https://arxiv.org/pdf/1809.01696.pdf) |	[Dataset](https://tvqa.cs.unc.edu/) | 
+| VQA-CP v2 |Don’t just assume; look and answer: Overcoming priors for visual question answering |	[Paper](https://arxiv.org/pdf/1712.00377.pdf) |	[Dataset](https://github.com/cdancette/vqa-cp-leaderboard) | 
+| RecipeQA | RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes| [Paper](https://arxiv.org/pdf/1809.00812.pdf) | [Dataset](https://hucvl.github.io/recipeqa/) | 
+| GQA |GQA: A new dataset for real-world visual reasoning and compositional question answering	| [Paper](https://arxiv.org/pdf/1902.09506v3.pdf) |	[Dataset](https://github.com/leaderj1001/Vision-Language) | 
+| Social IQ |Social-iq: A question answering benchmark for artificial social intelligence |	[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) |	[Dataset](https://github.com/A2Zadeh/CMU-MultimodalSDK) | 
 | MIMOQA |MIMOQA: Multimodal Input Multimodal Output Question Answering |	[Paper](https://aclanthology.org/2021.naacl-mai) | - | 
 
 

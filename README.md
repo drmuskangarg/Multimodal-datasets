@@ -134,8 +134,7 @@ We found that although 100+ multimodal language resources are available in liter
 | Social media posts from Flickr (Mental Health) |Inferring Social Media Users’ Mental Health Status from Multimodal Information	| [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7147779/)	|[Dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7147779/) | 
 | Twitter MEL |Building a Multimodal Entity Linking Dataset From Tweets	Building a Multimodal Entity Linking Dataset From Tweets | [Paper](aclanthology.org)	|[Dataset](	https://github.com/OA256864/MEL_Tweets) | 
 | MultiMET | MultiMET: A Multimodal Dataset for Metaphor Understanding |[Paper](https://aclanthology.org/2021.acl-long.249.pdf) | - | 
-| MSDS |Multimodal Sarcasm Detection in Spanish: a Dataset and a Baseline	|[Paper](https://arxiv.org/pdf/2105.05542.pdf)	|[Dataset](https://zenodo.org/record/4701383
-https://zenodo.org/record/4707913) | 
+| MSDS |Multimodal Sarcasm Detection in Spanish: a Dataset and a Baseline	|[Paper](https://arxiv.org/pdf/2105.05542.pdf)	|[Dataset](https://zenodo.org/record/4701383) | 
 
 8. **Miscellaneous**
 

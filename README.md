@@ -46,20 +46,20 @@ We found that although 100+ multimodal language resources are available in liter
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
-| Multi30K| Multi30K: Multilingual English-German Image Description | [Paper](https://arxiv.org/pdf/1605.00459.pdf) | https://github.com/multi30k/dataset | 
-| How2| How2: A Large-scale Dataset for Multimodal Language Understanding | [Paper](https://arxiv.org/pdf/1811.00347.pdf) | https://github.com/srvk/how2-dataset | 
-| MLT | Multimodal Lexical Translation | [Paper](https://aclanthology.org/L18-1602.pdf) | https://github.com/sheffieldnlp/mlt | 
-| IKEA | A Visual Attention Grounding Neural Model for Multimodal Machine Translation | [Paper](https://arxiv.org/pdf/1808.08266.pdf) | https://github.com/sampalomad/IKEA-Dataset | 
+| Multi30K| Multi30K: Multilingual English-German Image Description | [Paper](https://arxiv.org/pdf/1605.00459.pdf) | [Dataset](https://github.com/multi30k/dataset) | 
+| How2| How2: A Large-scale Dataset for Multimodal Language Understanding | [Paper](https://arxiv.org/pdf/1811.00347.pdf) | [Dataset](https://github.com/srvk/how2-dataset) | 
+| MLT | Multimodal Lexical Translation | [Paper](https://aclanthology.org/L18-1602.pdf) | [Dataset](https://github.com/sheffieldnlp/mlt) | 
+| IKEA | A Visual Attention Grounding Neural Model for Multimodal Machine Translation | [Paper](https://arxiv.org/pdf/1808.08266.pdf) | [Dataset](https://github.com/sampalomad/IKEA-Dataset) | 
 | Flickr30K (EN- (hi-IN)) | Multimodal Neural Machine Translation for Low-resource Language Pairs using Synthetic Data | [Paper](https://aclanthology.org/W18-3405.pdf) | On Request | 
-| Hindi Visual Genome | Hindi Visual Genome: A Dataset for Multimodal English-to-Hindi Machine Translation | [Paper](https://arxiv.org/pdf/1907.08948.pdf) | https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997 | 
-| HowTo100M | Multilingual Multimodal Pre-training for Zero-Shot Cross-Lingual Transfer of Vision-Language Models | [Paper](https://arxiv.org/pdf/2103.08849.pdf) | https://github.com/berniebear/Multi-HT100M | 
+| Hindi Visual Genome | Hindi Visual Genome: A Dataset for Multimodal English-to-Hindi Machine Translation | [Paper](https://arxiv.org/pdf/1907.08948.pdf) | [Dataset](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997) | 
+| HowTo100M | Multilingual Multimodal Pre-training for Zero-Shot Cross-Lingual Transfer of Vision-Language Models | [Paper](https://arxiv.org/pdf/2103.08849.pdf) | [Dataset](https://github.com/berniebear/Multi-HT100M) | 
 
 
 3. **Information Retrieval**
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ | 
-| MUSICLEF | MusiCLEF: a Benchmark Activity in Multimodal Music Information Retrieval | [Paper](https://ismir2011.ismir.net/papers/OS6-3.pdf) | http://www.cp.jku.at/datasets/musiclef/index.html | 
+| MUSICLEF | MusiCLEF: a Benchmark Activity in Multimodal Music Information Retrieval | [Paper](https://ismir2011.ismir.net/papers/OS6-3.pdf) | [Dataset](http://www.cp.jku.at/datasets/musiclef/index.html) | 
 | Moodo | The Moodo dataset: Integrating user context with emotional and color perception of music for affective music information retrieval | [Paper](https://www.tandfonline.com/doi/pdf/10.1080/09298215.2017.1333518?casa_token=GxB97r7M-WMAAAAA:7ZfS-mY7f3WTP0FBbpiaSIdU-tcRXdIIwCiLLCG8ghkw_FTRn_Ha3cPD7s_6i29RwLBd6EPJmg) | [Dataset](http://moodo.musiclab.si) | 
 | ALF-200k | ALF-200k: Towards Extensive Multimodal Analyses of Music Tracks and Playlists | [Paper](https://dbis-informatik.uibk.ac.at/sites/default/files/2018-04/ecir-2018-alf.pdf) | [Dataset](https://github.com/dbis-uibk/ALF200k) | 
 | MQA | Can Image Captioning Help Passage Retrieval in Multimodal Question Answering? | [Paper](https://www.springerprofessional.de/en/can-image-captioning-help-passage-retrieval-in-multimodal-questi/16626696) | [Dataset](https://huggingface.co/datasets/clips/mqa) | 

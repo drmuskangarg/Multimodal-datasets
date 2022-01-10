@@ -114,14 +114,14 @@ We found that although 100+ multimodal language resources are available in liter
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
-| CAUVE ||Paper | Dataset | 
-| MHAD ||Paper | Dataset | 
-| Multi-party interactions ||Paper | Dataset | 
-| MHHRI ||Paper | Dataset | 
-| Red Hen Lab ||Paper | Dataset | 
+| CAUVE |CUAVE: A new audio-visual database for multimodal human-computer interface research	| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5745028)	|[Dataset](http://people.csail.mit.edu/siracusa/avdata/)| 
+| MHAD |Berkeley mhad: A comprehensive multimodal human action database | [Paper](https://ieeexplore.ieee.org/document/6474999)	|[Dataset](https://tele-immersion.citris-uc.org/berkeley_mhad)| 
+| Multi-party interactions |A Multi-party Multi-modal Dataset for Focus of Visual Attention in Human-human and Human-robot Interaction	| [Paper](https://aclanthology.org/L16-1703.pdf) | - | 
+| MHHRI |Multimodal human-human-robot interactions (mhhri) dataset for studying personality and engagement	| [Paper](https://ieeexplore.ieee.org/document/8003432)|[Dataset](	https://www.cl.cam.ac.uk/research/rainbow/projects/mhhri/) | 
+| Red Hen Lab |Red Hen Lab: Dataset and Tools for Multimodal Human Communication Research	| [Paper](https://link.springer.com/content/pdf/10.1007/s13218-017-0505-9.pdf) | - | 
 | EMRE ||Paper | Dataset | 
-| Chinese Whispers ||Paper | Dataset | 
-| uulmMAC ||Paper | Dataset | 
+| Chinese Whispers |Chinese whispers: A multimodal dataset for embodied language grounding	| [Paper](https://www.researchgate.net/publication/341294259_Chinese_Whispers_A_Multimodal_Dataset_for_Embodied_Language_Grounding)	|[Dataset](https://zenodo.org/record/4587308#.YbJEctBBxPZ) | 
+| uulmMAC |The uulmMAC database—A multimodal affective corpus for affective computing in human-computer interaction	| [Paper](https://www.mdpi.com/1424-8220/20/8/2308)	|[Dataset](https://neuro.informatik.uni-ulm.de/TC9/tools-and-data-sets/uulmmac-database/) | 
 
 7. **Semantic Analysis**
 

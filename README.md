@@ -19,13 +19,13 @@ We found that although 100+ multimodal language resources are available in liter
 | Mimicry|A Multimodal Database for Mimicry Analysis| [Paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/sun2011multimodal.pdf) | http://www.mahnob-db.eu/mimicry | 
 | YouTube| Towards Multimodal Sentiment Analysis:Harvesting Opinions from the Web|https://ict.usc.edu/pubs/Towards%20Multimodal%20Sentiment%20Analysis-%20Harvesting%20Opinions%20from%20The%20Web.pdf | https://github.com/A2Zadeh/CMU-MultimodalSDK | 
 | HUMAINE| The HUMAINE database | [Paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/sun2011multimodal.pdf) | www.emotion-research.net | 
-| Large Movies| Sentiment classification on Large Movie Review |https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf | https://ai.stanford.edu/~amaas/data/sentiment/ | 
-| SEMAINE| The SEMAINE Database: Annotated Multimodal Records of Emotionally Colored Conversations between a Person and a Limited Agent |https://ieeexplore.ieee.org/document/5959155 | https://semaine-db.eu/| 
-| AFEW| Collecting Large, Richly Annotated Facial-Expression Databases from Movies|http://users.cecs.anu.edu.au/~adhall/Dhall_Goecke_Lucey_Gedeon_M_2012.pdf | https://cs.anu.edu.au/few/AFEW.html | 
+| Large Movies| Sentiment classification on Large Movie Review | [Paper](https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf) | https://ai.stanford.edu/~amaas/data/sentiment/ | 
+| SEMAINE| The SEMAINE Database: Annotated Multimodal Records of Emotionally Colored Conversations between a Person and a Limited Agent | [Paper](https://ieeexplore.ieee.org/document/5959155) | https://semaine-db.eu/| 
+| AFEW| Collecting Large, Richly Annotated Facial-Expression Databases from Movies| [Paper](http://users.cecs.anu.edu.au/~adhall/Dhall_Goecke_Lucey_Gedeon_M_2012.pdf) | https://cs.anu.edu.au/few/AFEW.html | 
 | SST| Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank |https://aclanthology.org/D13-1170.pdf | https://metatext.io/datasets/the-stanford-sentiment-treebank-(sst) | 
-| ICT-MMMO| YouTube Movie Reviews: Sentiment Analysis in an AudioVisual Context|http://multicomp.cs.cmu.edu/wp-content/uploads/2017/09/2013_IEEEIS_wollmer_youtube.pdf | https://github.com/A2Zadeh/CMU-MultimodalSDK | 
-| RECOLA| Introducing the RECOLA multimodal corpus of remote collaborative and affective interactions |https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6553805 | https://diuf.unifr.ch/main/diva/recola/download.html | 
-| MOUD| Utterance-Level Multimodal Sentiment Analysis |https://aclanthology.org/P13-1096.pdf | Utterance-Level Multimodal Sentiment Analysis | 
+| ICT-MMMO| YouTube Movie Reviews: Sentiment Analysis in an AudioVisual Context| [Paper]((http://multicomp.cs.cmu.edu/wp-content/uploads/2017/09/2013_IEEEIS_wollmer_youtube.pdf) | https://github.com/A2Zadeh/CMU-MultimodalSDK | 
+| RECOLA| Introducing the RECOLA multimodal corpus of remote collaborative and affective interactions | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6553805) | https://diuf.unifr.ch/main/diva/recola/download.html | 
+| MOUD| Utterance-Level Multimodal Sentiment Analysis |[Paper](https://aclanthology.org/P13-1096.pdf) |  | 
 | CMU-MOSI| MOSI: Multimodal Corpus of Sentiment Intensity and Subjectivity Analysis in Online Opinion Videos |https://arxiv.org/ftp/arxiv/papers/1606/1606.06259.pdf | https://github.com/A2Zadeh/CMU-MultimodalSDK | 
 | POM| Multimodal Analysis and Prediction of Persuasiveness in Online Social Multimedia |https://dl.acm.org/doi/pdf/10.1145/2897739 | https://github.com/eusip/POM | 
 | MELD| MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations |https://arxiv.org/pdf/1810.02508.pdf | https://affective-meld.github.io/ | 

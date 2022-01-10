@@ -140,22 +140,22 @@ We found that although 100+ multimodal language resources are available in liter
 
 | **Dataset**       | **Title of the Paper** | **Link of the Paper** | **Link of the Dataset** |
 | ----------------- | ---------------------- |---------------------- |------------------------ |
-| MS COCO ||Paper | Dataset | 
-| ILSVRC ||Paper | Dataset | 
-| YFCC100M ||Paper | Dataset | 
-| COGNIMUSE ||Paper | Dataset | 
-| SNAG ||Paper | Dataset | 
-| UR-Funny ||Paper | Dataset | 
-| Bag-of-Lies ||Paper | Dataset | 
+| MS COCO |Microsoft COCO: Common objects in context	|[Paper](https://link.springer.com/chapter/10.1007/978-3-319-10602-1_48) | [Dataset](https://github.com/topics/mscoco-dataset) | 
+| ILSVRC |ImageNet Large Scale Visual Recognition Challenge	|[Paper](https://arxiv.org/pdf/1409.0575.pdf) | [Dataset](https://image-net.org/download.php) | 
+| YFCC100M |YFCC100M: The new data in multimedia research	|[Paper](https://arxiv.org/pdf/1503.01817.pdf) | [Dataset](https://github.com/chi0tzp/YFCC100M-Downloader) | 
+| COGNIMUSE | COGNIMUSE: a multimodal video database annotated with saliency, events, semantics and emotion with application to summarization |[Paper](https://jivp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13640-017-0194-1.pdf) | [Dataset](https://cognimuse.cs.ntua.gr/research_datasets) | 
+| SNAG |SNAG: Spoken Narratives and Gaze Dataset	|[Paper](https://aclanthology.org/P18-2022.pdf) | [Dataset](https://mvrl-clasp.github.io/SNAG/) | 
+| UR-Funny |UR-FUNNY: A Multimodal Language Dataset for Understanding Humor	|[Paper](https://arxiv.org/pdf/1904.06618.pdf) | [Dataset](https://github.com/ROC-HCI/UR-FUNNY/blob/master/UR-FUNNY-V1.md)| 
+| Bag-of-Lies |Bag-of-Lies: A Multimodal Dataset for Deception Detection	|[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9025340) | [Dataset](http://iab-rubric.org/resources/BagLies.html) | 
 | MARC ||Paper | Dataset | 
-| MuSE ||Paper | Dataset | 
-| BabelPic ||Paper | Dataset | 
-| Eye4Ref ||Paper | Dataset | 
+| MuSE |MuSE: a Multimodal Dataset of Stressed Emotion	|[Paper](https://aclanthology.org/2020.lrec-1.187.pdf) | [Dataset](http://lit.eecs.umich.edu/downloads.html) | 
+| BabelPic |Fatality Killed the Cat or: BabelPic, a Multimodal Dataset for Non-Concrete Concept	|[Paper](https://aclanthology.org/2020.acl-main.425.pdf) | [Dataset](https://sapienzanlp.github.io/babelpic/) | 
+| Eye4Ref |Eye4Ref: A Multimodal Eye Movement Dataset of Referentially Complex Situations	|[Paper](https://aclanthology.org/2020.lrec-1.292.pdf) | - | 
 | Troll Memes ||Paper | Dataset | 
-| SEMD ||Paper | Dataset | 
-| Chat talk Corpus ||Paper | Dataset | 
-| EMOTyDA ||Paper | Dataset | 
-| MELINDA ||Paper | Dataset | 
-| NewsCLIPpings ||Paper | Dataset | 
-| R2VQ ||Paper | Dataset | 
-| M2H2 ||Paper | Dataset | 
+| SEMD |EmoSen: Generating sentiment and emotion controlled responses in a multimodal dialogue system	|[Paper](https://www.computer.org/csdl/journal/ta/5555/01/09165162/1mcQTrYsXbG) | - | 
+| Chat talk Corpus |Construction and Analysis of a Multimodal Chat-talk Corpus for Dialog Systems Considering Interpersonal Closeness	|[Paper](https://aclanthology.org/2020.lrec-1.56.pdf) | - | 
+| EMOTyDA |Towards Emotion-aided Multi-modal Dialogue Act Classification	|[Paper](https://aclanthology.org/2020.acl-main.402.pdf) | [Dataset](https://github.com/sahatulika15/EMOTyDA) | 
+| MELINDA |MELINDA: A Multimodal Dataset for Biomedical Experiment Method Classification	|[Paper](https://arxiv.org/pdf/2012.09216.pdf) | [Dataset](https://github.com/PlusLabNLP/melinda)| 
+| NewsCLIPpings |NewsCLIPpings: Automatic Generation of Out-of-Context Multimodal Media|[Paper](https://aclanthology.org/2021.emnlp-main.545.pdf) | [Dataset](https://github.com/g-luo/news_clippings) | 
+| R2VQ | Designing Multimodal Datasets for NLP Challenges |[Paper](https://arxiv.org/pdf/2105.05999.pdf) | [Dataset](https://competitions.codalab.org/competitions/34056) | 
+| M2H2 | M2H2: A Multimodal Multiparty Hindi Dataset For Humor Recognition in Conversations |[Paper](https://arxiv.org/pdf/2108.01260.pdf) | [Dataset](https://github.com/declare-lab/M2H2-dataset) | 
